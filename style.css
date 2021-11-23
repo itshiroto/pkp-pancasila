@@ -13,3 +13,10 @@
     position: absolute;
     z-index: 2
 }
+
+#text-kelompok {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 2em;
+}
