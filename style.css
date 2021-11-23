@@ -1,17 +1,5 @@
 #header {
     background-color: #b02a37;
-    position: relative;
-}
-
-#hand-image {
-    position: absolute;
-    bottom: 0;
-    z-index: 1;
-}
-
-#big-text {
-    position: absolute;
-    z-index: 2
 }
 
 #text-kelompok {
