@@ -1,10 +1,25 @@
+:root{
+    --red: #b02a37;
+}
+body {
+  position: relative;
+}
+
+#content {
+    position: relative;
+}
+
 #header {
-    background-color: #b02a37;
+    background-color: var(--red);
+}
+
+.rumusan-content {
+    background-color: var(--red);
 }
 
 #text-kelompok {
     position: absolute;
-    bottom: 0;
+    top: 0;
     left: 0;
     margin: 2em;
 }
