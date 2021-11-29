@@ -9,6 +9,10 @@ body {
     position: relative;
 }
 
+.red-bg {
+    background-color: var(--red);
+}
+
 #header {
     background-color: var(--red);
 }
