@@ -27,3 +27,7 @@ body {
     left: 0;
     margin: 2em;
 }
+
+#bibliography li {
+    margin-bottom: 1.5em;
+}
