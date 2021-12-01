@@ -26,6 +26,30 @@ section{
     background-color: var(--red);
 }
 
+
+#definisi-ahli {
+    background-image: url("asset/bg-definisi.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media screen and (max-width: 920px) {
+    #definisi-ahli {
+        background-position-x: -180px;
+    }
+    
+}
+
+#definisi-ahli hr {
+    border: 1px solid red;
+    opacity: 1;
+}
+
+#definisi-nama {
+    color: var(--red);
+}
+
 #text-kelompok {
     position: absolute;
     top: 0;
